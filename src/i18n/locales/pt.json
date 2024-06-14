@@ -1,0 +1,21 @@
+{
+    "motorcycle_registration": "Registro de Motos ",
+    "fill_in_the_information_below_t_register_a_motorcycle": "Preencha as informações a baixo para registrar uma Moto 🏍️ ",
+    "input_code": "Código",
+    "input_motorcycle_model": "Modelo da Moto",
+    "input_color": "Cor",
+    "input_price": "Valor",
+    "input_status": "Status",
+    "in_stock_option": "Em estoque",
+    "non-stock_option": "Sem estoque",
+    "transit_option": "Em trânsito",
+    "register": "Registrar", 
+    "search_by_code_name_and_color": "Buscar por código, nome e cor ",
+    "new_registration": "Novo Registro",
+    "motorcycle_table": "Tabela de Motos",
+    "to_edit": "Editar",
+    "edit_the_information_you_prefer": "Edite as informações que preferir! 📝",
+    "to_update": "Atualizar ",
+    "please_fill_in_all_fields": "Por favor, preencha todos os campos."
+  }
+   

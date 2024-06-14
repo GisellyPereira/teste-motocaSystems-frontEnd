@@ -15,6 +15,7 @@ module.exports = {
           medium: "#312D4B",
           gray:"#CAC9CD",
           blue:"#3BADFB",
+          blueHover:"#3398e7",
         },
       },
     },

@@ -1,0 +1,20 @@
+{
+    "motorcycle_registration": "Motorcycle Registration",
+    "fill_in_the_information_below_t_register_a_motorcycle": "Fill in the information below to register a Motorcycle 🏍️",
+    "input_code": "Code",
+    "input_motorcycle_model": "Motorcycle Model",
+    "input_color": "Color",
+    "input_price": "Price",
+    "input_status": "Status",
+    "in_stock_option": "In Stock",
+    "non-stock_option": "Out of Stock",
+    "transit_option": "In Transit",
+    "register": "Register",
+    "search_by_code_name_and_color": "Search by code, name, and color",
+    "new_registration": "New Registration",
+    "motorcycle_table": "Motorcycle Table",
+    "to_edit": "Edit",
+    "edit_the_information_you_prefer": "Edit the information you prefer! 📝",
+    "to_update": "Update",
+    "please_fill_in_all_fields": "Please fill in all fields."
+}
