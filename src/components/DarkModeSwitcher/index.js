@@ -25,7 +25,7 @@ export default function DarkModeSwitcher() {
     <motion.div
       initial={darkMode ? "dark" : "light"}
       animate={darkMode ? "dark" : "light"}
-      className="rounded-full bg-gray-300 w-14 h-8 flex items-center justify-start p-1 dark:bg-gray-700"
+      className="rounded-full bg-gray w-14 h-8 flex items-center justify-start p-1 dark:bg-medium"
       onClick={toggleDarkMode}
     >
       <motion.div

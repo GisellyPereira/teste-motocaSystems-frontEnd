@@ -1,5 +1,8 @@
 // import { useTranslation } from "react-i18next";
 import DarkModeSwitcher from "../DarkModeSwitcher";
+import iconHome from "../../assets/images/home.png"; 
+import person from "../../assets/images/person.png";
+
 
 
 export default function Header() {
@@ -7,12 +10,10 @@ export default function Header() {
 
   return (
     <header className="flex justify-between items-center p-4">
-      <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-       Registro de Motos
-      </h1>
-      <div className="flex gap-2 items-center">
-       
-       <DarkModeSwitcher />
+      <DarkModeSwitcher />
+      <div className="flex items-center space-x-4">
+        <img src={iconHome} alt="home" className="object-cover" />
+        <img src={person} alt="person" className="object-cover " />
       </div>
     </header>
   );

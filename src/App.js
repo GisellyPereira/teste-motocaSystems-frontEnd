@@ -1,10 +1,14 @@
-import Header from './components/Header';
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import Form from './screens/Form';
+
 
 function App() {
   return (
-    <div className=" bg-white dark:bg-gray-800 w-screen min-h-screen">
-      <Header />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Form />} />
+      </Routes>
+    </Router>
   );
 }
 
